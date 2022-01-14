@@ -55,14 +55,14 @@ body {
 }
 
 .btn {
-  border-color: #8c84aa;
-  background-color: #8c84aa;
+  border-color: #d1cddd;
+  background-color: #d1cddd;
   color: red;
 }
 
 .btn:focus,
 .btn:hover {
-  border-color: #8c84aa;
-  background-color: #9684d8;
+  border-color: #d1cddd;
+  background-color: #d1cddd;
   color: red;
 }
