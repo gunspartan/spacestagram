@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5e5777;
+}
+
+.App {
+  margin-top: 5rem;
+}
+
+.loading {
+  color: #fff;
+}
+
+.header {
+  padding: 3rem;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.8rem;
+}
+
+.title h1 {
+  margin: 0 3rem;
+  color: #fff;
+}
+
+.title i {
+  font-size: 2rem;
+  color: #fce03f;
+}
+
+.tagline {
+  color: #fff;
+}
+.post-card {
+  margin-bottom: 3rem;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-footer p {
+  padding-left: 1rem;
+}
+
+.btn {
+  border-color: #8c84aa;
+  background-color: #8c84aa;
+  color: red;
+}
+
+.btn:focus,
+.btn:hover {
+  border-color: #8c84aa;
+  background-color: #9684d8;
+  color: red;
+}
